@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/squaresmash-react/static/css/main.edd6f3ce.chunk.css",
+    "main.js": "/squaresmash-react/static/js/main.0596e32b.chunk.js",
+    "main.js.map": "/squaresmash-react/static/js/main.0596e32b.chunk.js.map",
+    "runtime-main.js": "/squaresmash-react/static/js/runtime-main.67916c6a.js",
+    "runtime-main.js.map": "/squaresmash-react/static/js/runtime-main.67916c6a.js.map",
+    "static/js/2.b93a0dd0.chunk.js": "/squaresmash-react/static/js/2.b93a0dd0.chunk.js",
+    "static/js/2.b93a0dd0.chunk.js.map": "/squaresmash-react/static/js/2.b93a0dd0.chunk.js.map",
+    "static/js/3.b70088af.chunk.js": "/squaresmash-react/static/js/3.b70088af.chunk.js",
+    "static/js/3.b70088af.chunk.js.map": "/squaresmash-react/static/js/3.b70088af.chunk.js.map",
+    "index.html": "/squaresmash-react/index.html",
+    "static/css/main.edd6f3ce.chunk.css.map": "/squaresmash-react/static/css/main.edd6f3ce.chunk.css.map",
+    "static/js/2.b93a0dd0.chunk.js.LICENSE.txt": "/squaresmash-react/static/js/2.b93a0dd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67916c6a.js",
+    "static/js/2.b93a0dd0.chunk.js",
+    "static/css/main.edd6f3ce.chunk.css",
+    "static/js/main.0596e32b.chunk.js"
+  ]
+}
